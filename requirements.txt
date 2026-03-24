@@ -1,0 +1,14 @@
+python-dotenv
+rich
+numpy<2
+faiss-cpu
+sentence-transformers
+langchain
+langgraph
+langchain-core
+langchain-text-splitters
+langchain-groq
+groq
+openai-whisper
+pyttsx3
+gTTS
