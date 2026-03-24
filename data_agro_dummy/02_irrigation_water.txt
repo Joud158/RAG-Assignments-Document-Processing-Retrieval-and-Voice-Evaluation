@@ -1,0 +1,52 @@
+# Chapter 2 — Irrigation Scheduling, Soil, and Water Quality
+
+## 2.1 The goal
+Irrigation should keep water in the root zone without waterlogging or salt buildup. Too little water reduces growth; too much water causes root diseases, nutrient leaching, and wasted pumping cost.
+
+## 2.2 Soil texture changes everything
+Sandy soils:
+- Low water-holding capacity; water moves fast.
+- Best practice: shorter, more frequent irrigations (e.g., daily or every 2 days in hot periods).
+
+Loamy soils:
+- Balanced holding capacity; moderate frequency.
+
+Clay soils:
+- High holding, slow infiltration; longer but less frequent irrigation; avoid saturating because roots need oxygen.
+
+## 2.3 Practical scheduling without fancy tools
+Use a simple “bucket” view of the root zone:
+- Root depth (vegetables): often 20–40 cm early, 40–60 cm later.
+- Allowable depletion (rule of thumb): irrigate when ~30–50% of available water is used.
+
+Field method:
+- Dig a small hole 20–30 cm deep.
+- Squeeze soil: if it forms a weak ball and crumbles, you’re near the irrigation threshold.
+- If it forms a sticky ribbon, it may be too wet.
+
+## 2.4 Crop stage matters (example: tomato)
+- After transplanting (first 7–10 days): frequent small irrigations to reduce stress.
+- Vegetative growth: steady moisture; avoid big swings.
+- Flowering/fruit set: water stress can reduce fruit set; prioritize consistent irrigation.
+- Ripening: slightly reduce water to limit cracking, but do not let plants wilt.
+
+## 2.5 Drip irrigation vs sprinkler
+Drip delivers water to roots and keeps leaves dry, reducing fungal disease (early blight, downy mildew). Sprinklers cool the canopy but increase leaf wetness and disease risk.
+
+## 2.6 Salinity and “white crust”
+High salinity water can leave white crust on soil surface. Signs include poor germination and leaf burn on edges. Management:
+- Use drip to concentrate water near roots.
+- Occasionally apply a leaching irrigation if drainage is adequate.
+- Mulch to reduce evaporation (evaporation leaves salts behind).
+
+## 2.7 Simple irrigation recipe for sandy soil vegetables
+If you have sandy soil and drip lines:
+- Start with 20–30 minutes per day (or per irrigation cycle), then adjust using plant response.
+- In hot windy days, split into 2 cycles (morning + late afternoon) to reduce deep percolation loss.
+- Watch leaves at midday: mild midday droop can be normal; severe droop that continues into evening means under-watering.
+
+## 2.8 Weather notes for coastal Mediterranean spring
+In spring, temperature swings are common. Wind can increase evapotranspiration even if temperature is moderate. After a heat spike, plants can suddenly need more water.
+
+## 2.9 Record keeping
+Write down irrigation duration, date, and any rainfall. This helps calibrate your schedule to your field.

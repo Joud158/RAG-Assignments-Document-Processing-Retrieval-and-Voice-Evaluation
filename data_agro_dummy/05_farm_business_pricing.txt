@@ -1,0 +1,43 @@
+# Chapter 5 — Farm Business Decisions Under Price Volatility
+
+## 5.1 The reality
+When currency and input prices change quickly, farmers face uncertainty. A “good” agronomic decision can still be a bad financial decision if the market price drops or inputs spike.
+
+## 5.2 Build a simple cost sheet (one page)
+Track costs per dunum or per hectare:
+- Seeds/seedlings
+- Fertilizers
+- Pesticides
+- Water and pumping
+- Labor
+- Transport and packaging
+
+Then estimate expected yield and selling price range (low / medium / high). This gives you a break-even price.
+
+## 5.3 Example: deciding whether to buy a fungicide
+Ask:
+1) How much yield is at risk without treatment?
+2) What is the probability the treatment works (timing + diagnosis)?
+3) What is the all-in cost (product + labor + fuel)?
+4) Are there cheaper alternatives (leaf removal, spacing, irrigation change)?
+
+Simple decision rule:
+- Treat only if (expected saved revenue) > (cost of treatment) and resistance risk is acceptable.
+Expected saved revenue ≈ (yield at risk) × (market price) × (probability of success).
+
+## 5.4 Managing exchange-rate risk (practical habits)
+- Keep records in both LBP and USD equivalent at purchase date.
+- If possible, buy high-impact inputs early for the season when prices are favorable.
+- Use group purchasing (co-ops) to reduce unit cost and improve negotiating power.
+
+## 5.5 Pricing your produce
+If your costs are volatile, consider:
+- Pre-agreeing on price ranges with buyers.
+- Diversifying crops so one market crash doesn’t wipe you out.
+- Adding value (washing, grading, packaging) when it increases price more than it increases cost.
+
+## 5.6 Working with NGOs and support programs
+Some programs require evidence: field records, photos, receipts, and yield estimates. Good documentation increases your chances of support.
+
+## 5.7 Summary
+Good farming is both biology and economics. Use data to reduce uncertainty.

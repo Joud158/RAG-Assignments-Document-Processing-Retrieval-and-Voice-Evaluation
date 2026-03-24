@@ -1,0 +1,60 @@
+# Chapter 1 — Crop Diagnostics & Integrated Pest Management (IPM)
+
+## 1.1 Why diagnosis matters
+Farm decisions are expensive: spraying the wrong product wastes money, delays recovery, and can increase resistance. A good diagnosis starts with: (1) crop and variety, (2) growth stage, (3) pattern in the field (edges vs center), (4) weather last 7–14 days, (5) recent inputs (fertilizer, pesticide, irrigation).
+
+## 1.2 Fast field checklist (5 minutes)
+- Look at distribution: random spots often indicate disease; straight lines often indicate irrigation or equipment issues.
+- Check old vs new leaves: nutrient issues often show patterns (e.g., nitrogen on older leaves first).
+- Inspect underside of leaves for mites, eggs, and fungal growth.
+- Cut stems: brown vascular tissue can indicate wilts.
+- Smell and feel: bacterial soft rots often smell and feel watery.
+
+## 1.3 Powdery mildew on cucurbits (cucumber, zucchini, melon)
+Typical symptoms:
+- White, powder-like patches on the upper leaf surface; later, patches spread and leaves yellow and dry.
+- Often appears after warm days and cool nights; dense canopy and poor air flow increases risk.
+
+What it is:
+- A fungal disease; spores move by wind and can spread quickly.
+
+Management (IPM):
+1) Cultural
+   - Increase spacing; prune to improve air movement.
+   - Avoid excess nitrogen late in the season (too much soft growth).
+   - Remove heavily infected leaves early; do not compost if infection is severe.
+2) Monitoring
+   - Scout twice per week once first symptoms are seen.
+   - Use a simple severity score: 0=no spots, 1=1–5 spots, 2=patches on <25% leaf, 3=25–50%, 4=>50%.
+3) Chemical (when justified)
+   - Rotate modes of action to reduce resistance. Do not repeat the same active ingredient back-to-back.
+   - Apply preventively when the first spots appear; late spraying gives poor results because the fungus is already established.
+4) Decision rule
+   - If severity ≥2 on young leaves and weather stays favorable, treat.
+   - If infection is only on very old leaves and harvest is near, focus on leaf removal and airflow.
+
+## 1.4 Early blight on tomato (and potato)
+- Concentric “target” rings on older leaves; leaf drop starts from the bottom.
+- Risk increases with leaf wetness (overhead irrigation) and warm humid conditions.
+- Reduce leaf wetness: drip irrigation, morning watering, staking, mulching.
+- Remove lower leaves touching soil; sanitize tools.
+
+## 1.5 Aphids and virus risk
+Aphids cause direct damage (curling, sticky honeydew) and can transmit viruses. Virus symptoms can include mosaic patterns and stunting. Even low aphid numbers can be important if virus is present nearby.
+
+Practical actions:
+- Use yellow sticky cards as an early warning.
+- Control weeds around the plot (virus reservoirs).
+- If virus symptoms appear, remove infected plants early to protect the rest.
+
+## 1.6 “Spray or not?” logic
+Before spraying, answer:
+- Is the problem biotic (pest/disease) or abiotic (nutrition, water, heat)?
+- What is the expected yield loss if you do nothing?
+- What is the cost of action (product + labor + fuel) and chance of success?
+- Will the action increase resistance risk?
+
+If expected benefit < cost, do not spray. Instead, choose a lower-cost action (remove leaves, improve airflow, adjust irrigation) and monitor.
+
+## 1.7 Safe use notes (high-level)
+Follow label instructions, pre-harvest intervals, and protective equipment. Store chemicals away from children and food.

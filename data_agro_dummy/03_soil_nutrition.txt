@@ -1,0 +1,58 @@
+# Chapter 3 — Soil Testing, Fertility, and Fertigation
+
+## 3.1 Start with a soil test
+A soil test prevents guessing. Key values:
+- pH (affects nutrient availability)
+- Organic matter (buffering and water holding)
+- Electrical conductivity (salinity)
+- N, P, K levels; plus micronutrients (Fe, Zn, B)
+
+## 3.2 Interpreting common patterns
+- Low organic matter: nutrients leach quickly; split applications work better.
+- High pH (alkaline): iron and zinc become less available; chlorosis can appear on young leaves.
+- Very high phosphorus: can reduce zinc uptake.
+
+## 3.3 N-P-K basics (simple view)
+- Nitrogen (N): vegetative growth, leaf color; too much causes soft growth and disease risk.
+- Phosphorus (P): root growth and early vigor; important early.
+- Potassium (K): fruit quality, stress tolerance, water regulation.
+
+## 3.4 Split application strategy (why it helps)
+Instead of one big fertilizer dose, split into smaller weekly doses. Benefits:
+- Less leaching, especially in sandy soils.
+- More stable growth.
+- Easier to correct if plants respond badly.
+
+## 3.5 Example program: potatoes (moderate yield target)
+Assume low organic matter and irrigated field.
+1) At planting
+   - Provide a balanced starter (includes P) near the seed piece.
+2) Early growth (2–4 weeks)
+   - Nitrogen in small weekly doses to build canopy.
+3) Tuber initiation
+   - Keep nitrogen steady but not excessive (too much delays tuber formation).
+   - Increase potassium to support tuber bulking.
+4) Bulking
+   - Prioritize potassium; monitor leaf color and avoid late nitrogen spikes.
+
+Rule of thumb decision:
+- If leaves are pale from bottom up: increase N slightly.
+- If leaf edges scorch and plants look thirsty even when irrigated: check salinity and potassium.
+
+## 3.6 Micronutrients quick notes
+- Iron deficiency: yellow young leaves with green veins (common in high pH).
+- Boron: affects flowering and fruit set; both deficiency and excess are harmful.
+- Calcium: related to blossom-end rot in tomato; consistency of irrigation matters more than simply adding calcium.
+
+## 3.7 Fertigation (fertilizer through drip)
+Fertigation is efficient because nutrients go where roots are. Best practices:
+- Filter water to avoid clogging.
+- Inject in the middle of the irrigation cycle, then flush with clean water.
+- Use smaller frequent doses rather than rare large doses.
+
+## 3.8 Nutrient budgeting
+Track:
+- fertilizer type, amount, and cost
+- expected yield
+- price per kg
+This links agronomy decisions to business decisions.

@@ -1,0 +1,46 @@
+# Chapter 4 — Post-Harvest Handling and Supply Chain Basics
+
+## 4.1 Why post-harvest matters
+For many vegetables, post-harvest losses can be as damaging as field pests. Heat, bruising, and dehydration reduce quality and market price.
+
+## 4.2 The “3 rules”
+1) Harvest at the right maturity.
+2) Remove field heat quickly (cooling).
+3) Protect from crushing and moisture loss during transport.
+
+## 4.3 Handling lettuce (highly perishable)
+Main risks:
+- Wilting from water loss
+- Browning and decay if too warm
+- Crushing in transport
+
+Best practice workflow:
+- Harvest early morning when leaves are cool and turgid.
+- Shade immediately; avoid leaving crates in the sun.
+- Pre-cool if possible (forced-air cooling or cold room).
+- Use clean, ventilated crates; avoid overfilling.
+- Maintain airflow in the truck; do not block vents.
+- If no cold chain is available: shorten time to market, use wet burlap on crates (not soaking), and transport at night if feasible.
+
+## 4.4 Packaging and stacking
+- Strong crates prevent compression damage.
+- Stack in a stable pattern; avoid tall unstable stacks.
+- Use liners for delicate produce, but ensure ventilation.
+
+## 4.5 Simple quality grading
+Separate produce into:
+A) premium (best price),
+B) standard (normal market),
+C) processing/animal feed (avoid mixing with A).
+This improves overall revenue and avoids reputation damage.
+
+## 4.6 Traceability (simple)
+Write on each batch:
+- farm name, date, crop, field section
+If a complaint happens, you can identify which field and harvest day had issues.
+
+## 4.7 Transport checklist
+- Clean truck bed
+- Shade or cover from direct sun
+- Secure crates to avoid sliding
+- Keep produce away from chemicals and fuel odors
